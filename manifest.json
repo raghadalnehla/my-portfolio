@@ -1,6 +1,6 @@
 {
-    "name": "raghad",
-    "short_name": "raghad",
+    "name": "my-portfolio",
+    "short_name": "my-portfolio",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
