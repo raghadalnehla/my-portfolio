@@ -1,0 +1,348 @@
+{
+  "name": "رغد النحلاوي",
+  "description": "مطور تطبيقات الهاتف المحمول",
+  "subDescription": "فلاتر",
+  "contacts": [
+    {
+      "tooltip": "Github",
+      "url": "https://github.com/raghadAL-Nehlawi",
+      "icon": {
+        "codePoint": "0xefb7",
+        "fontFamily": "FontAwesome"
+      }
+    },
+    {
+      "tooltip": " LinkedIn",
+      "url": "https://www.linkedin.com/in/raghad-al-nehlawi",
+      "icon": {
+        "codePoint": "0xeffb",
+        "fontFamily": "FontAwesome"
+      }
+    },
+    {
+      "tooltip": "nehlawiraghad@gmail.com",
+      "url": "mailto:nehlawiraghad@gmail.com",
+      "icon": {
+        "codePoint": "0xeaad",
+        "fontFamily": "FontAwesome"
+      }
+    },
+    {
+      "tooltip": "+971 54 302 3248",
+      "url": "tel:+971543023248",
+      "icon": {
+        "codePoint": "0xecbb",
+        "fontFamily": "FontAwesome"
+      }
+    }
+  ],
+  "resumes": [
+    {
+      "languageCode": "en",
+      "url": "https://drive.google.com/file/d/1oK6i9FgS6tK4B2zGEX8DkUjoRgVL0OhD/view?usp=drive_link"
+    }
+  ],
+  "aboutDescription": "مرحباً! أنا رغد، مطورة تطبيقات جوال مبتكرة بخبرة تزيد عن 4 سنوات في Flutter وDart، معروفة بتقديم تطبيقات عالية الأداء وتجارب مستخدم مشوقة. ماهرة في تصميم واجهات مستخدم بديهية وسهلة الاستخدام تعزز رضا المستخدم وتزيد من الاحتفاظ به من خلال التصميم الإبداعي والتفاعلية.",
+  "experiences": [
+    {
+      "role": "مطور تطبيقات الهاتف المحمول",
+      "company": "WeBuildIt",
+      "description": "أنشأت نظام خدمة متكامل مع الخلفية، مما أتاح تحديثات في الوقت الفعلي دون الحاجة إلى تقديم التحديثات لمتجر التطبيقات.\nصممت نظام السمات القابلة للتخصيص الفوري من الخلفية.\nقادت تحسينات التصميم وإصلاحات الأخطاء وتعزيزات الأداء.",
+      "isPresent": true,
+      "startYear": 2023,
+      "startMonth": 9,
+      "technologies": [
+        {
+          "name": "Flutter",
+          "icon": {
+            "assetName": "assets/icons/software-development/flutter.svg"
+          }
+        },
+        {
+          "name": "Dart",
+          "icon": {
+            "assetName": "assets/icons/other/dart.svg"
+          }
+        },
+        {
+          "name": "Firebase",
+          "icon": {
+            "assetName": "assets/icons/other/firebase.svg"
+          }
+        }
+      ],
+      "links": []
+    },
+    {
+      "role": "مطور تطبيقات الهاتف المحمول",
+      "company": "Bevol",
+      "description": "أضفت وظيفة الربط العميق وحسنت أداء التطبيق، مما زاد من رضا المستخدمين بنسبة 35٪.\nدمجت CI/CD عبر CodeMagic لتسهيل عمليات النشر.",
+      "startYear": 2023,
+      "startMonth": 11,
+      "endYear": 2024,
+      "endMonth": 9,
+      "technologies": [
+        {
+          "name": "Flutter",
+          "icon": {
+            "assetName": "assets/icons/software-development/flutter.svg"
+          }
+        },
+        {
+          "name": "Dart",
+          "icon": {
+            "assetName": "assets/icons/other/dart.svg"
+          }
+        },
+        {
+          "name": "Firebase",
+          "icon": {
+            "assetName": "assets/icons/other/firebase.svg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "مطور تطبيقات الهاتف المحمول",
+      "company": "IRIS CODE AND COLOR",
+      "description": "طورت تطبيقين تعليميين مع وحدات تفاعلية وردود فعل في الوقت الفعلي للأطفال.\nدمجت Stripe للمشتريات داخل التطبيق، مما زاد من الإيرادات.\nحسنت استجابة التطبيق وأوقات التحميل لتجربة مستخدم أفضل.",
+      "startYear": 2022,
+      "startMonth": 8,
+      "endYear": 2023,
+      "endMonth": 9,
+      "technologies": [
+        {
+          "name": "Flutter",
+          "icon": {
+            "assetName": "assets/icons/software-development/flutter.svg"
+          }
+        },
+        {
+          "name": "Dart",
+          "icon": {
+            "assetName": "assets/icons/other/dart.svg"
+          }
+        },
+        {
+          "name": "Firebase",
+          "icon": {
+            "assetName": "assets/icons/other/firebase.svg"
+          }
+        }
+      ],
+      "links": []
+    },
+    {
+      "role": "مطور تطبيقات الهاتف المحمول",
+      "company": "Future Code",
+      "description": "قدمت مجموعة متنوعة من مشاريع فلاتر، بما في ذلك تطبيقات الدردشة والتوصيل.\nأجريت مراجعات الكود لفريق من 5 مطورين لضمان جودة الكود والالتزام بأفضل الممارسات.",
+      "startYear": 2021,
+      "startMonth": 3,
+      "endYear": 2022,
+      "endMonth": 8,
+      "technologies": [
+        {
+          "name": "Flutter",
+          "icon": {
+            "assetName": "assets/icons/software-development/flutter.svg"
+          }
+        },
+        {
+          "name": "Dart",
+          "icon": {
+            "assetName": "assets/icons/other/dart.svg"
+          }
+        },
+        {
+          "name": "Firebase",
+          "icon": {
+            "assetName": "assets/icons/other/firebase.svg"
+          }
+        }
+      ],
+      "links": []
+    },
+    {
+      "role": "مطور تطبيقات الهاتف المحمول",
+      "company": "cNepho (Synnefo) Global",
+      "description": "حسنت أداء التطبيق، مما قلل أوقات التحميل بنسبة 25٪ والأخطاء بنسبة 60٪.\nنفذت Firebase لتأمين المصادقة ومزامنة البيانات مع REST API/GraphQL.",
+      "startYear": 2020,
+      "startMonth": 4,
+      "endYear": 2022,
+      "endMonth": 2,
+      "technologies": [
+        {
+          "name": "Flutter",
+          "icon": {
+            "assetName": "assets/icons/software-development/flutter.svg"
+          }
+        },
+        {
+          "name": "Dart",
+          "icon": {
+            "assetName": "assets/icons/other/dart.svg"
+          }
+        },
+        {
+          "name": "Firebase",
+          "icon": {
+            "assetName": "assets/icons/other/firebase.svg"
+          }
+        }
+      ],
+      "links": []
+    }
+  ],
+  "education": {
+    "University": "جامعة دمشق",
+    "date": "2017-2023",
+    "location": "دمشق، سوريا",
+    "degree": "بكالوريوس في الهندسة - هندسة البرمجيات",
+    "description": "المشروع النهائي: تصميم نظام حكومي قائم على البلوك تشين لتحسين أمن وشفافية الوثائق بنسبة 50٪.\nالمشروع الأول: بناء نظام إدارة المرافق الرياضية الأوتوماتيكي لتحسين إدارة الاشتراكات بنسبة 30٪."
+  },
+  "present": "الحالي",
+  "projects": [
+    {
+      "name": "بروتوكول - تطبيق الحجز والتتبع",
+      "description": "بروتوكول هو تطبيق مصمم لتبسيط عمليات الحجز وتتبع مواقع الموظفين وتحسين دعم العملاء. يتضمن سمات قابلة للتخصيص وخيارات نشاط ديناميكية.\n\nالميزات الرئيسية\n\nالحجوزات: حجز وإدارة بسيطة.\nتتبع الموظفين: تتبع الوظائف والمواقع في الوقت الفعلي.\nدعم العملاء: مساعدة داخل التطبيق للمستخدمين.\nالتتبع المباشر: تحديثات الموقع في الوقت الفعلي للشفافية.\nالسمات والنشاطات الديناميكية: عرض السمات والنشاطات القابلة للتخصيص.",
+      "icon": {
+        "codePoint": "0xefb7",
+        "fontFamily": "FontAwesome",
+        "color": "0xffffffff"
+      },
+      "screenshotPath": "assets/videos/protocol.mp4",
+      "technologies": [
+        {
+          "name": "Flutter",
+          "icon": {
+            "assetName": "assets/icons/software-development/flutter.svg"
+          }
+        },
+        {
+          "name": "Dart",
+          "icon": {
+            "assetName": "assets/icons/other/dart.svg"
+          }
+        }
+      ],
+      "links": [
+        {
+          "url": "https://play.google.com/store/apps/details?id=com.raysan.app.raysan&hl=en",
+          "display": "Google Play"
+        },
+        {
+          "url": "https://apps.apple.com/us/app/protocol/id1639732168",
+          "display": "App Store"
+        }
+      ]
+    },
+    {
+      "name": "Mayyar Butler",
+      "description": "Mayyar Butler هو تطبيق شامل مصمم لتبسيط خدمات الضيافة. يتيح للمستخدمين تقديم ومتابعة طلبات الخدمة الخاصة بهم، واستكشاف المطاعم وطلب الوجبات.\n\nالميزات الرئيسية\n\nإدارة طلبات الخدمة: تقديم ومتابعة طلبات الخدمة.\nالوصول إلى المطاعم: تصفح قوائم الطعام وطلب الوجبات.\nالتوسيع الديناميكي: دعم إضافة خدمات جديدة، مما يضمن المرونة والتكيف مع المتطلبات المتزايدة.",
+      "icon": {
+        "codePoint": "0xefb7",
+        "fontFamily": "FontAwesome",
+        "color": "0xffffffff"
+      },
+      "screenshotPath": "assets/videos/mayyar.mp4",
+      "technologies": [
+        {
+          "name": "Flutter",
+          "icon": {
+            "assetName": "assets/icons/software-development/flutter.svg"
+          }
+        },
+        {
+          "name": "Dart",
+          "icon": {
+            "assetName": "assets/icons/other/dart.svg"
+          }
+        },
+        {
+          "name": "Firebase",
+          "icon": {
+            "assetName": "assets/icons/other/firebase.svg"
+          }
+        }
+      ],
+      "links": [
+        {
+          "url": "https://play.google.com/store/apps/details?id=com.raysan.sar.sar&hl=en",
+          "display": "Google Play"
+        },
+        {
+          "url": "https://apps.apple.com/sa/app/mayyar-butler/id6444134715",
+          "display": "App Store"
+        }
+      ]
+    },
+    {
+      "name": "Bevol",
+      "description": "Bevol هو المنصة الرائدة للتنظيم والتواصل في مجال التطوع والعمل المجتمعي. مصمم كمنصة تواصل اجتماعي، يربط المتطوعين والمنظمات والشركات في بيئة تفاعلية، مما يتيح التواصل والتعاون بسلاسة.\n\nالميزات الرئيسية\n\nالمنشورات والإشعارات: يمكن للمستخدمين إنشاء منشورات وتلقي إشعارات والبقاء على اطلاع بأحدث فرص التطوع.\nالمهام والفعاليات: أقسام مخصصة للمهام والفعاليات توفر تجارب تطوعية للمستخدمين حول العالم.\nبيئة تطوعية تفاعلية: يمكن للمتطوعين التفاعل مع المنظمات واكتساب خبرات رائدة في مجالات متنوعة من الخدمة.\nالمسؤولية الاجتماعية للشركات: تتيح Bevol للشركات تقديم خدمات وخصومات للمتطوعين كجزء من مبادراتها الاجتماعية.",
+      "icon": {
+        "codePoint": "0xefb7",
+        "fontFamily": "FontAwesome",
+        "color": "0xffffffff"
+      },
+      "screenshotPath": "assets/videos/bevol.mp4",
+      "technologies": [
+        {
+          "name": "Flutter",
+          "icon": {
+            "assetName": "assets/icons/software-development/flutter.svg"
+          }
+        },
+        {
+          "name": "Dart",
+          "icon": {
+            "assetName": "assets/icons/other/dart.svg"
+          }
+        }
+      ],
+      "links": [
+        {
+          "url": "https://play.google.com/store/apps/details?id=org.bevol.app&hl=es_US",
+          "display": "Google Play"
+        },
+        {
+          "url": "https://apps.apple.com/ae/app/bevol/id1463962481",
+          "display": "App Store"
+        }
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "code": "en",
+      "name": "الإنجليزية",
+      "nativeName": "English",
+      "icon": {
+        "assetName": "assets/icons/flags/united-states-of-america.svg"
+      }
+    },
+    {
+      "code": "ar",
+      "name": "العربية",
+      "nativeName": "Arabic",
+      "icon": {
+        "assetName": "assets/icons/flags/uae.png"
+      }
+    }
+  ],
+  "bottomBanner": {
+    "message": "المعرض مفتوح المصدر -",
+    "displayLink": "استنسخه",
+    "linkUrl": "https://github.com/AladdineDev/portfolio#readme"
+  },
+  "portfolio": "المعرض",
+  "homeSectionTitle": "الرئيسية",
+  "aboutSectionTitle": "حول",
+  "aboutSectionTitleAlt": "حولني",
+  "experienceSectionTitle": "الخبرة",
+  "projectsSectionTitle": "المشاريع",
+  "resume": "السيرة الذاتية",
+  "downloadResume": "تحميل السيرة الذاتية",
+  "openUrlError": "تعذر فتح الرابط",
+  "unknownLanguageError": "لغة غير معروفة",
+  "education_name": "التعليم"
+}
