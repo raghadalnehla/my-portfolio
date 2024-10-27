@@ -1,0 +1,461 @@
+{
+    "name": "Raghad Al-Nehlawi",
+    "description": "Mobile App Developer",
+    "subDescription": "Flutter",
+    "contacts": [
+        {
+            "tooltip": "Github",
+            "url": "https://github.com/raghadAL-Nehlawi",
+            "icon": {
+                "codePoint": "0xefb7",
+                "fontFamily": "FontAwesome"
+            }
+        },
+        {
+            "tooltip": "LinkedIn",
+            "url": "https://www.linkedin.com/in/raghad-al-nehlawi",
+            "icon": {
+                "codePoint": "0xeffb",
+                "fontFamily": "FontAwesome"
+            }
+        },
+        {
+            "tooltip": "nehlawiraghad@gmail.com",
+            "url": "mailto:nehlawiraghad@gmail.com",
+            "icon": {
+                "codePoint": "0xeaad",
+                "fontFamily": "FontAwesome"
+            }
+        },
+        {
+            "tooltip": "+971 54 302 3248",
+            "url": "tel:+971543023248",
+            "icon": {
+                "codePoint": "0xecbb",
+                "fontFamily": "FontAwesome"
+            }
+        }
+    ],
+    "resumes": [
+        {
+            "languageCode": "en",
+            "url": "https://drive.google.com/file/d/1oK6i9FgS6tK4B2zGEX8DkUjoRgVL0OhD/view?usp=drive_link"
+        }
+    ],
+    "aboutDescription": "Hi! I'm Raghad, a Creative Mobile Application Developer with 4+ years in Flutter and Dart, known for delivering high-performance apps and engaging user experiences. Skilled in crafting intuitive, user-friendly interfaces that drive satisfaction and retention through innovative design and interactivity.",
+    "experiences": [
+        {
+            "role": "Mobile App Developer",
+            "company": "WeBuildIt",
+            "description": "Built a backend-integrated service system, enabling real-time updates without app store submissions.\nDesigned a flexible theme system for instant customization from the backend.\nLed design improvements, bug fixes, and performance enhancements.",
+            "isPresent": true,
+            "startYear": 2023,
+            "startMonth": 9,
+            "technologies": [
+                {
+                    "name": "Flutter",
+                    "icon": {
+                        "assetName": "assets/icons/software-development/flutter.svg"
+                    }
+                },
+                {
+                    "name": "Dart",
+                    "icon": {
+                        "assetName": "assets/icons/other/dart.svg"
+                    }
+                },
+                {
+                    "name": "Firebase",
+                    "icon": {
+                        "assetName": "assets/icons/other/firebase.svg"
+                    }
+                }
+            ],
+            "links": []
+        },
+        {
+            "role": "Mobile App Developer",
+            "company": "Bevol",
+            "description": "Added deep linking functionality and optimized app performance, boosting user satisfaction by 35%.\nIntegrated CI/CD pipelines via CodeMagic to streamline deployments.\n",
+            "startYear": 2023,
+            "startMonth": 11,
+            "endYear": 2024,
+            "endMonth": 9,
+            "technologies": [
+                {
+                    "name": "Flutter",
+                    "icon": {
+                        "assetName": "assets/icons/software-development/flutter.svg"
+                    }
+                },
+                {
+                    "name": "Dart",
+                    "icon": {
+                        "assetName": "assets/icons/other/dart.svg"
+                    }
+                },
+                {
+                    "name": "Firebase",
+                    "icon": {
+                        "assetName": "assets/icons/other/firebase.svg"
+                    }
+                }
+            ]
+        },
+        {
+            "role": "Mobile App Developer",
+            "company": "IRIS CODE AND COLOR",
+            "description": "Developed two e-learning apps with interactive modules and real-time feedback for children.\nIntegrated Stripe for in-app purchases, boosting monetization.\nImproved app responsiveness and load times for a better user experience.\n",
+            "startYear": 2022,
+            "startMonth": 8,
+            "endYear": 2023,
+            "endMonth": 9,
+            "technologies": [
+                {
+                    "name": "Flutter",
+                    "icon": {
+                        "assetName": "assets/icons/software-development/flutter.svg"
+                    }
+                },
+                {
+                    "name": "Dart",
+                    "icon": {
+                        "assetName": "assets/icons/other/dart.svg"
+                    }
+                },
+                {
+                    "name": "Firebase",
+                    "icon": {
+                        "assetName": "assets/icons/other/firebase.svg"
+                    }
+                }
+            ],
+            "links": [
+              
+            ]
+        },
+        {
+            "role": "Mobile App Developer",
+            "company": "Future Code",
+            "description": "Delivered diverse Flutter projects, including chat and delivery apps, enhancing functionality.\nConducted code reviews for a team of 5 developers, ensuring code quality and best practices.\n",
+            "startYear": 2021,
+            "startMonth": 3,
+            "endYear": 2022,
+            "endMonth": 8,
+            "technologies": [
+                {
+                    "name": "Flutter",
+                    "icon": {
+                        "assetName": "assets/icons/software-development/flutter.svg"
+                    }
+                },
+                {
+                    "name": "Dart",
+                    "icon": {
+                        "assetName": "assets/icons/other/dart.svg"
+                    }
+                },
+                {
+                    "name": "Firebase",
+                    "icon": {
+                        "assetName": "assets/icons/other/firebase.svg"
+                    }
+                }
+            ],
+            "links": [
+            ]
+        },
+        {
+            "role": "Mobile App Developer",
+            "company": "cNepho (Synnefo) Global",
+            "description": "Optimized app performance, reducing load times by 25% and crashes by 60%.\nImplemented Firebase for secure authentication and data synchronization with REST API/GraphQL.\n",
+            "startYear": 2020,
+            "startMonth": 4,
+            "endYear": 2022,
+            "endMonth": 2,
+            "technologies": [
+                {
+                    "name": "Flutter",
+                    "icon": {
+                        "assetName": "assets/icons/software-development/flutter.svg"
+                    }
+                },
+                {
+                    "name": "Dart",
+                    "icon": {
+                        "assetName": "assets/icons/other/dart.svg"
+                    }
+                },
+                {
+                    "name": "Firebase",
+                    "icon": {
+                        "assetName": "assets/icons/other/firebase.svg"
+                    }
+                }
+            ],
+            "links": [
+              
+            ]
+        }
+
+    ],
+  "education": {
+        "University": "Damascus University",
+      "date": "2017-2023",
+      "location":"Damascus, Syria",
+      "degree": "Bachelor of Engineering - Software Engineering",
+      "description": "Senior project: Designed a blockchain-based government system that improved document security and transparency by 50%.\nJunior project: Built an automated sports facility management system, streamlining subscription management and improving e\u0000ciency by 30%."
+  },
+    "present": "Present",
+    "projects": [
+        {
+            "name": "Protocol - Reservation & Tracking App",
+            "description":"Protocol is an app designed to simplify reservations, track employee locations, and enhance customer support. It includes customizable themes and dynamic activity options.\n\nKey Features\n\nReservations: Simple booking and management.\nEmployee Tracking: Real-time job and location tracking.\nCustomer Support: In-app assistance for users.\nLive Tracking: Real-time location updates for transparency.\nDynamic Themes & Activities: Customizable themes and activity displays.",
+            "icon": {
+                "codePoint": "0xefb7",
+                "fontFamily": "FontAwesome",
+                "color": "0xffffffff"
+            },
+            "screenshotPath": "assets/videos/protocol.mp4",
+            "technologies": [
+                {
+                    "name": "Flutter",
+                    "icon": {
+                        "assetName": "assets/icons/software-development/flutter.svg"
+                    }
+                },
+                {
+                    "name": "Dart",
+                    "icon": {
+                        "assetName": "assets/icons/other/dart.svg"
+                    }
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://play.google.com/store/apps/details?id=com.raysan.app.raysan&hl=en",
+                    "display": "Google Play"
+                },
+                {
+                    "url": "https://apps.apple.com/us/app/protocol/id1639732168",
+                    "display": "App Store"
+                }
+            ]
+        },
+        {
+            "name": "Mayyar Butler",
+            "description": "Mayyar Butler is a versatile app designed to streamline hospitality services. It enables users to submit and track their service requests effortlessly, while also allowing them to explore restaurants and order meals. Built with scalability in mind, the app can dynamically integrate new services to meet evolving user needs.\n\nKey Features\n\nService Request Management: Submit and follow up on hospitality service requests in real time.\nRestaurant Access: Browse restaurant menus and order meals directly through the app.\nDynamic Expansion: Supports the addition of new services, ensuring flexibility and adaptability as requirements grow.",
+            "icon": {
+                "codePoint": "0xefb7",
+                "fontFamily": "FontAwesome",
+                "color": "0xffffffff"
+            },
+            "screenshotPath": "assets/videos/mayyar.mp4",
+            "technologies": [
+                {
+                    "name": "Flutter",
+                    "icon": {
+                        "assetName": "assets/icons/software-development/flutter.svg"
+                    }
+                },
+                {
+                    "name": "Dart",
+                    "icon": {
+                        "assetName": "assets/icons/other/dart.svg"
+                    }
+                },
+                {
+                    "name": "Firebase",
+                    "icon": {
+                        "assetName": "assets/icons/other/firebase.svg"
+                    }
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://play.google.com/store/apps/details?id=com.raysan.sar.sar&hl=en",
+                "display": "Google Play"
+                },
+                {
+                    "url": "https://apps.apple.com/sa/app/mayyar-butler/id6444134715",
+                    "display": "App Store"
+                }
+            ]
+        },
+        {
+            "name": "Bevol",
+            "description": "Bevol is the leading international platform for organizing and networking in the field of volunteering and community work. Designed as a social media platform, it connects volunteers, organizations, and companies in an interactive environment, allowing for seamless communication and collaboration.\n\nKey Features\n\nPosts & Notifications: Users can create posts, receive notifications, and stay updated on the latest volunteer opportunities.\nMissions & Events: Dedicated sections for missions and events provide users with access to volunteering experiences worldwide.\nInteractive Volunteering Environment: Volunteers can engage with organizations, gaining pioneering experiences in various fields of service.\nCorporate Social Responsibility (CSR): Bevol allows companies to offer services and discounts to volunteers as part of their CSR initiatives.Bevol is the leading international platform for organizing and networking in the field of volunteering and community work. Designed as a social media platform, it connects volunteers, organizations, and companies in an interactive environment, allowing for seamless communication and collaboration.\n\nKey Features\n\nPosts & Notifications: Users can create posts, receive notifications, and stay updated on the latest volunteer opportunities.\nMissions & Events: Dedicated sections for missions and events provide users with access to volunteering experiences worldwide.\nInteractive Volunteering Environment: Volunteers can engage with organizations, gaining pioneering experiences in various fields of service.\nCorporate Social Responsibility (CSR): Bevol allows companies to offer services and discounts to volunteers as part of their CSR initiatives.",
+            "icon": {
+                "codePoint": "0xefb7",
+                "fontFamily": "FontAwesome",
+                "color": "0xffffffff"
+            },
+            "screenshotPath": "assets/videos/bevol.mp4",
+            "technologies": [
+                {
+                    "name": "Flutter",
+                    "icon": {
+                        "assetName": "assets/icons/software-development/flutter.svg"
+                    }
+                },
+                {
+                    "name": "Dart",
+                    "icon": {
+                        "assetName": "assets/icons/other/dart.svg"
+                    }
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://play.google.com/store/apps/details?id=org.bevol.app&hl=es_US",
+                    "display": "Google Play"
+                },
+                {
+                    "url": "https://apps.apple.com/ae/app/bevol/id1463962481",
+                    "display": "App Store"
+                }
+            ]
+        },
+        {
+            "name": "Creative Buds",
+            "description": "Creative Buds is a highly engaging educational app designed to teach young children essential writing and reading skills in a playful and interactive way. The app focuses on guiding children through the learning process by using finger movement recognition, where kids can practice tracing letters and words directly on the screen.\n\nThe app’s user-friendly design offers real-time feedback, encouraging children as they learn to write and read. Creative Buds features a variety of educational modules, developed in collaboration with experts, that are age-appropriate and designed to enhance the learning curve in a natural, engaging way.\n\nIn addition to its core writing and reading features, Creative Buds includes in-app purchases for premium content, securely processed through Stripe, making it easy for parents to unlock additional learning materials as their child progresses.\n\nWith its innovative approach to education, Creative Buds is an invaluable tool for children beginning their reading and writing journey.",
+            "icon": {
+                "codePoint": "0xefb7",
+                "fontFamily": "FontAwesome",
+                "color": "0xffffffff"
+            },
+            "screenshotPath": "assets/videos/creative.mp4",
+            "technologies": [
+                {
+                    "name": "Flutter",
+                    "icon": {
+                        "assetName": "assets/icons/software-development/flutter.svg"
+                    }
+                },
+                {
+                    "name": "Dart",
+                    "icon": {
+                        "assetName": "assets/icons/other/dart.svg"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "SIL Application for Sudia Arbice Institution",
+            "description": "Contributed to the development of an advanced educational platform, focusing on online courses, interactive learning, and video tutorials. This project involved creating a comprehensive learning environment that catered to diverse educational needs and preferences.",
+            "icon": {
+                "codePoint": "0xefb7",
+                "fontFamily": "FontAwesome",
+                "color": "0xffffffff"
+            },
+            "screenshotPath": "assets/videos/sil.mp4",
+            "technologies": [
+                {
+                    "name": "Flutter",
+                    "icon": {
+                        "assetName": "assets/icons/software-development/flutter.svg"
+                    }
+                },
+                {
+                    "name": "Dart",
+                    "icon": {
+                        "assetName": "assets/icons/other/dart.svg"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Ceratfica",
+            "description": "Certafica is a specialized educational application designed to support 9th-grade students in their academic journey. With over 5,000 downloads and a 4.3-star rating on the App Store, it has become a trusted resource for students preparing for important exams. The app was recognized with the Digital Content Pioneers Award from SVU University for its innovative approach to delivering essential learning tools and content specifically tailored to this crucial academic stage.\n\nCertafica provides interactive content and support that helps students excel in their studies, making learning accessible and engaging",
+            "icon": {
+                "codePoint": "0xefb7",
+                "fontFamily": "FontAwesome",
+                "color": "0xffffffff"
+            },
+            "screenshotPath": "assets/videos/certafica.mp4",
+            "technologies": [
+                {
+                    "name": "Flutter",
+                    "icon": {
+                        "assetName": "assets/icons/software-development/flutter.svg"
+                    }
+                },
+                {
+                    "name": "Dart",
+                    "icon": {
+                        "assetName": "assets/icons/other/dart.svg"
+                    }
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://play.google.com/store/apps/details?id=certafica.alef.app&hl=en",
+                    "display": "Google Play"
+                }
+            ]
+        },
+        {
+            "name": "Astrofi",
+            "description": "Astrofi is a free Wi-Fi management solution designed to efficiently control network access. It allows administrators to add users to groups, provide controlled website access, and manage new user approvals by accepting or rejecting them. With its intuitive interface and secure user management, Astrofi is ideal for public spaces offering free internet access.\n\n        Key Features:\n\n        Group-based user management\n        Controlled website access\n        New user approval system (accept/reject)\n        Secure and scalable network management",
+            "icon": {
+                "codePoint": "0xefb7",
+                "fontFamily": "FontAwesome",
+                "color": "0xffffffff"
+            },
+            "screenshotPath": "assets/videos/astrofi.mp4",
+            "technologies": [
+                {
+                    "name": "Flutter",
+                    "icon": {
+                        "assetName": "assets/icons/software-development/flutter.svg"
+                    }
+                },
+                {
+                    "name": "Dart",
+                    "icon": {
+                        "assetName": "assets/icons/other/dart.svg"
+                    }
+                }
+            ],
+            "with_simulator": false
+
+        }
+
+
+
+    ],
+    "languages": [
+        {
+            "code": "en",
+            "name": "English",
+            "nativeName": "English",
+            "icon": {
+                "assetName": "assets/icons/flags/united-states-of-america.svg"
+            }
+        },
+        {
+            "code": "ar",
+            "name": "Arabic",
+            "nativeName": "Arabic",
+            "icon": {
+                "assetName": "assets/icons/flags/uae.png"
+            }
+        }
+    ],
+    "bottomBanner": {
+        "message": "Open source portfolio -",
+        "displayLink": "Fork it",
+        "linkUrl": "https://github.com/AladdineDev/portfolio#readme"
+    },
+    "portfolio": "Portfolio",
+    "homeSectionTitle": "Home",
+    "aboutSectionTitle": "About",
+    "aboutSectionTitleAlt": "About Me",
+    "experienceSectionTitle": "Experience",
+    "projectsSectionTitle": "Projects",
+    "resume": "Resume",
+    "downloadResume": "Download resume",
+    "openUrlError": "Could not open the url",
+    "unknownLanguageError": "Language unknown",
+    "education_name": "Education"
+}
