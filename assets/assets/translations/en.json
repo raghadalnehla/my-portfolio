@@ -28,8 +28,8 @@
             }
         },
         {
-            "tooltip": "+971 54 302 3248",
-            "url": "tel:+971543023248",
+            "tooltip": "+971 50 367 2079",
+            "url": "tel:+971503672079",
             "icon": {
                 "codePoint": "0xecbb",
                 "fontFamily": "FontAwesome"
@@ -39,7 +39,7 @@
     "resumes": [
         {
             "languageCode": "en",
-            "url": "https://drive.google.com/file/d/1oK6i9FgS6tK4B2zGEX8DkUjoRgVL0OhD/view?usp=drive_link"
+            "url": "https://drive.google.com/file/d/1AHEI6TFvD5oNwd1YNIubbveX8gKX-bq8/view?usp=sharing"
         }
     ],
     "aboutDescription": "Hi! I'm Raghad, a Creative Mobile Application Developer with 4+ years in Flutter and Dart, known for delivering high-performance apps and engaging user experiences. Skilled in crafting intuitive, user-friendly interfaces that drive satisfaction and retention through innovative design and interactivity.",
@@ -290,7 +290,7 @@
                 "fontFamily": "FontAwesome",
                 "color": "0xffffffff"
             },
-            "screenshotPath": "assets/videos/bevol.mp4",
+            "screenshotPath": "https://github.com/raghadalnehla/hepler/blob/main/bevol.mp4",
             "technologies": [
                 {
                     "name": "Flutter",
@@ -348,7 +348,7 @@
                 "fontFamily": "FontAwesome",
                 "color": "0xffffffff"
             },
-            "screenshotPath": "assets/videos/sil.mp4",
+            "screenshotPath": "https://github.com/raghadalnehla/hepler/blob/main/sil.mp4",
             "technologies": [
                 {
                     "name": "Flutter",
@@ -402,7 +402,7 @@
                 "fontFamily": "FontAwesome",
                 "color": "0xffffffff"
             },
-            "screenshotPath": "assets/videos/astrofi.mp4",
+            "screenshotPath": "https://github.com/raghadalnehla/hepler/blob/main/astrofi.mp4",
             "technologies": [
                 {
                     "name": "Flutter",

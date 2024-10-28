@@ -1,7 +1,7 @@
 {
   "name": "رغد النحلاوي",
   "description": "مطور تطبيقات الهاتف المحمول",
-  "subDescription": "فلاتر",
+  "subDescription": "Flutter",
   "contacts": [
     {
       "tooltip": "Github",
@@ -28,8 +28,8 @@
       }
     },
     {
-      "tooltip": "+971 54 302 3248",
-      "url": "tel:+971543023248",
+      "tooltip": "+971 50 367 2079",
+      "url": "tel:+971503672079",
       "icon": {
         "codePoint": "0xecbb",
         "fontFamily": "FontAwesome"
@@ -39,7 +39,7 @@
   "resumes": [
     {
       "languageCode": "en",
-      "url": "https://drive.google.com/file/d/1oK6i9FgS6tK4B2zGEX8DkUjoRgVL0OhD/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1AHEI6TFvD5oNwd1YNIubbveX8gKX-bq8/view?usp=sharing"
     }
   ],
   "aboutDescription": "مرحباً! أنا رغد، مطورة تطبيقات جوال مبتكرة بخبرة تزيد عن 4 سنوات في Flutter وDart، معروفة بتقديم تطبيقات عالية الأداء وتجارب مستخدم مشوقة. ماهرة في تصميم واجهات مستخدم بديهية وسهلة الاستخدام تعزز رضا المستخدم وتزيد من الاحتفاظ به من خلال التصميم الإبداعي والتفاعلية.",
