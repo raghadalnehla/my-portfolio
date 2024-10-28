@@ -309,6 +309,109 @@
           "display": "App Store"
         }
       ]
+    },
+    {
+      "name": "البراعم المبدعة",
+      "description": "تطبيق البراعم المبدعة هو تطبيق تعليمي تفاعلي مصمم لتعليم الأطفال الصغار المهارات الأساسية في الكتابة والقراءة بطريقة مرحة وتفاعلية. يركز التطبيق على إرشاد الأطفال خلال عملية التعلم باستخدام تقنية التعرف على حركة الأصابع، حيث يمكن للأطفال ممارسة تتبع الحروف والكلمات مباشرة على الشاشة.\n\nيتميز التطبيق بتصميم سهل الاستخدام ويوفر ملاحظات فورية، مما يشجع الأطفال أثناء تعلمهم الكتابة والقراءة. ويحتوي البراعم المبدعة على مجموعة من الوحدات التعليمية، التي تم تطويرها بالتعاون مع خبراء، لتكون ملائمة للعمر وتعزز من مستوى التعلم بطريقة طبيعية وجذابة.\n\nبالإضافة إلى الميزات الأساسية للكتابة والقراءة، يحتوي البراعم المبدعة على مشتريات داخل التطبيق للمحتوى المميز، يتم معالجتها بأمان من خلال Stripe، مما يسهل على الآباء فتح مواد تعليمية إضافية لأطفالهم حسب تقدمهم.\n\nبنهجه المبتكر في التعليم، يعد البراعم المبدعة أداة قيمة للأطفال في بداية رحلتهم التعليمية.",
+      "icon": {
+        "codePoint": "0xefb7",
+        "fontFamily": "FontAwesome",
+        "color": "0xffffffff"
+      },
+      "screenshotPath": "assets/videos/creative.mp4",
+      "technologies": [
+        {
+          "name": "Flutter",
+          "icon": {
+            "assetName": "assets/icons/software-development/flutter.svg"
+          }
+        },
+        {
+          "name": "Dart",
+          "icon": {
+            "assetName": "assets/icons/other/dart.svg"
+          }
+        }
+      ]
+    },
+    {
+      "name": "تطبيق SIL لمؤسسة سوديا",
+      "description": "ساهمت في تطوير منصة تعليمية متقدمة، تركز على الدورات عبر الإنترنت، التعلم التفاعلي، ودروس الفيديو. شمل هذا المشروع إنشاء بيئة تعليمية شاملة تلبي احتياجات وتفضيلات تعليمية متنوعة.",
+      "icon": {
+        "codePoint": "0xefb7",
+        "fontFamily": "FontAwesome",
+        "color": "0xffffffff"
+      },
+      "screenshotPath": "https://github.com/raghadalnehla/hepler/blob/main/sil.mp4",
+      "technologies": [
+        {
+          "name": "Flutter",
+          "icon": {
+            "assetName": "assets/icons/software-development/flutter.svg"
+          }
+        },
+        {
+          "name": "Dart",
+          "icon": {
+            "assetName": "assets/icons/other/dart.svg"
+          }
+        }
+      ]
+    },
+    {
+      "name": "سيرتفيكا",
+      "description": "سيرتفيكا هو تطبيق تعليمي متخصص لدعم طلاب الصف التاسع في رحلتهم الأكاديمية. مع أكثر من 5000 تنزيل وتقييم 4.3 نجمة على متجر التطبيقات، أصبح مورداً موثوقاً للطلاب الذين يستعدون للامتحانات الهامة. وقد حصل التطبيق على جائزة رواد المحتوى الرقمي من جامعة SVU لنهجه المبتكر في تقديم أدوات ومحتوى تعليمي أساسي مخصص لهذه المرحلة الأكاديمية المهمة.\n\nيقدم سيرتفيكا محتوى تفاعلياً ودعماً يساعد الطلاب على التفوق في دراستهم، مما يجعل التعلم أكثر جاذبية وسهولة.",
+      "icon": {
+        "codePoint": "0xefb7",
+        "fontFamily": "FontAwesome",
+        "color": "0xffffffff"
+      },
+      "screenshotPath": "assets/videos/certafica.mp4",
+      "technologies": [
+        {
+          "name": "Flutter",
+          "icon": {
+            "assetName": "assets/icons/software-development/flutter.svg"
+          }
+        },
+        {
+          "name": "Dart",
+          "icon": {
+            "assetName": "assets/icons/other/dart.svg"
+          }
+        }
+      ],
+      "links": [
+        {
+          "url": "https://play.google.com/store/apps/details?id=certafica.alef.app&hl=en",
+          "display": "Google Play"
+        }
+      ]
+    },
+    {
+      "name": "Astrofi",
+      "description": "Astrofi هو حل لإدارة شبكة الواي فاي المجانية مصمم للتحكم بكفاءة في الوصول إلى الشبكة. يسمح للمسؤولين بإضافة المستخدمين إلى مجموعات، وتوفير وصول محدود إلى مواقع الويب، وإدارة قبول أو رفض المستخدمين الجدد. مع واجهته السهلة وإدارته الآمنة للمستخدمين، يعد Astrofi مثاليًا للأماكن العامة التي تقدم إنترنت مجاني.\n\nالمميزات الرئيسية:\n\nإدارة المستخدمين حسب المجموعات\nالتحكم في الوصول إلى المواقع\nنظام الموافقة على المستخدمين الجدد (قبول/رفض)\nإدارة شبكة آمنة وقابلة للتوسيع",
+      "icon": {
+        "codePoint": "0xefb7",
+        "fontFamily": "FontAwesome",
+        "color": "0xffffffff"
+      },
+      "screenshotPath": "https://github.com/raghadalnehla/hepler/blob/main/astrofi.mp4",
+      "technologies": [
+        {
+          "name": "Flutter",
+          "icon": {
+            "assetName": "assets/icons/software-development/flutter.svg"
+          }
+        },
+        {
+          "name": "Dart",
+          "icon": {
+            "assetName": "assets/icons/other/dart.svg"
+          }
+        }
+      ],
+      "with_simulator": false
     }
   ],
   "languages": [
