@@ -290,7 +290,7 @@
                 "fontFamily": "FontAwesome",
                 "color": "0xffffffff"
             },
-            "screenshotPath": "assets/videos/bevol.mp4",
+            "screenshotPath": "https://github.com/raghadalnehla/hepler/blob/main/bevol.mp4",
             "technologies": [
                 {
                     "name": "Flutter",
@@ -341,14 +341,14 @@
             ]
         },
         {
-            "name": "SIL Application for Sudia Arbice Institution ",
+            "name": "SIL Application for Sudia Arbice Institution",
             "description": "Contributed to the development of an advanced educational platform, focusing on online courses, interactive learning, and video tutorials. This project involved creating a comprehensive learning environment that catered to diverse educational needs and preferences.",
             "icon": {
                 "codePoint": "0xefb7",
                 "fontFamily": "FontAwesome",
                 "color": "0xffffffff"
             },
-            "screenshotPath": "assets/videos/sil.mp4",
+            "screenshotPath": "https://github.com/raghadalnehla/hepler/blob/main/sil.mp4",
             "technologies": [
                 {
                     "name": "Flutter",
@@ -402,7 +402,7 @@
                 "fontFamily": "FontAwesome",
                 "color": "0xffffffff"
             },
-            "screenshotPath": "assets/videos/astrofi.mp4",
+            "screenshotPath": "https://github.com/raghadalnehla/hepler/blob/main/astrofi.mp4",
             "technologies": [
                 {
                     "name": "Flutter",
