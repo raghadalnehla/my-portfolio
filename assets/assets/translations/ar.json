@@ -342,7 +342,7 @@
         "fontFamily": "FontAwesome",
         "color": "0xffffffff"
       },
-      "screenshotPath": "https://github.com/raghadalnehla/hepler/blob/main/sil.mp4",
+      "screenshotPath": "assets/videos/sil.mp4",
       "technologies": [
         {
           "name": "Flutter",
@@ -396,7 +396,7 @@
         "fontFamily": "FontAwesome",
         "color": "0xffffffff"
       },
-      "screenshotPath": "https://github.com/raghadalnehla/hepler/blob/main/astrofi.mp4",
+      "screenshotPath": "assets/videos/astrofi.mp4",
       "technologies": [
         {
           "name": "Flutter",
