@@ -335,7 +335,7 @@
       ]
     },
     {
-      "name": "تطبيق SIL لمؤسسة سوديا",
+      "name": "تطبيق SIL للمعهد التعليمي السعودي",
       "description": "ساهمت في تطوير منصة تعليمية متقدمة، تركز على الدورات عبر الإنترنت، التعلم التفاعلي، ودروس الفيديو. شمل هذا المشروع إنشاء بيئة تعليمية شاملة تلبي احتياجات وتفضيلات تعليمية متنوعة.",
       "icon": {
         "codePoint": "0xefb7",
@@ -440,7 +440,7 @@
   "portfolio": "المعرض",
   "homeSectionTitle": "الرئيسية",
   "aboutSectionTitle": "حول",
-  "aboutSectionTitleAlt": "حولني",
+  "aboutSectionTitleAlt": "نبذة عني",
   "experienceSectionTitle": "الخبرة",
   "projectsSectionTitle": "المشاريع",
   "resume": "السيرة الذاتية",
